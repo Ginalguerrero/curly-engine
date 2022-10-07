@@ -13,4 +13,10 @@ This project is mainly about using a third party API to build a calendar that's 
 
 Collab: Basil, Ali
 
+Live URL : https://ginalguerrero.github.io/curly-engine/
 
+Resources: 
+https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+https://momentjs.com/docs/
+https://getbootstrap.com/
+https://jquery.com/
