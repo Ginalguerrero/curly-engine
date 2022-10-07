@@ -1,5 +1,5 @@
 
-# curly-engine
+# Third-Party APIs Challenge: Work Day Scheduler
 This project uses a third party API to build a calendar that's easier for clients to manage or modify time/date without conflict from their previous/current existing scheduling
 
 ## This app is designed to heave feautures that consists of:
