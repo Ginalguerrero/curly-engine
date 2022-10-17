@@ -15,7 +15,7 @@ This project uses a third party API to build a calendar that's easier for client
 -Colored time blocks depending on past/present/future events
 
 
-Collab: Basil, Ali
+
 
 
 ![Work Day Scheduler](https://user-images.githubusercontent.com/112473624/194477616-4b235c84-2efe-4d44-a13b-1fe952bd0ece.gif)
